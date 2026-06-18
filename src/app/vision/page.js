@@ -1,7 +1,6 @@
 import React from 'react';
 import { CameraFeed } from '../../components/CameraFeed';
-import { QuickActionCard } from '../../components/QuickActionCard';
-import { FiCamera } from 'react-icons/fi';
+// Removed unused imports (QuickActionCard, FiCamera) – placeholder component will be added separately
 
 export default function VisionPage() {
   return (
