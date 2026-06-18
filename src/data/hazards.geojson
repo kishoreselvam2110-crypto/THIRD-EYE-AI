@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Kitchen Table", "type": "obstacle"},
+      "geometry": {"type": "Point", "coordinates": [77.5946, 12.9716]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Staircase", "type": "obstacle"},
+      "geometry": {"type": "Point", "coordinates": [77.5950, 12.9718]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Curb", "type": "obstacle"},
+      "geometry": {"type": "Point", "coordinates": [77.5942, 12.9714]}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+html, body {
+  font-family: 'Inter', system-ui, sans-serif;
+  @apply bg-gray-900 text-white;
+}
+
+/* High contrast utilities */
+.high-contrast {
+  @apply bg-black text-yellow-500;
+}
